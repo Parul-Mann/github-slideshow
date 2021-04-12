@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi this is parul
+Hello this is parul mann
 Your text
 Use the left arrow to go back!
